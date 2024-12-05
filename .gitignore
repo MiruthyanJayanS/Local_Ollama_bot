@@ -1,9 +1,0 @@
-# Ignore the data, __pycache__, and vectorstore directories
-data/
-__pycache__/
-vectorstore/
-
-# Ignore the main.py and lang_funcs.py files
-main.py
-lang_funcs.py
-
